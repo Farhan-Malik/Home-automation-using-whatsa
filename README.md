@@ -3,7 +3,6 @@ The WhatsApp Home Automation System is an innovative and user-friendly project d
 
 # WhatsApp Home Automation System
 
-![Home Automation System Banner](/images/banner.jpg)
 
 The WhatsApp Home Automation System is a powerful, user-friendly project that brings the convenience of home automation to your fingertips through WhatsApp. With this system, you can control and monitor various aspects of your home from anywhere, all with simple text commands.
 
@@ -23,16 +22,6 @@ The WhatsApp Home Automation System is a powerful, user-friendly project that br
 
 - **IoT Device Integration**: Compatible with a wide range of IoT devices for a seamless smart home experience.
 
-## Screenshots
-
-![Screenshot 1](/images/screenshot1.jpg)
-
-Caption for Screenshot 1
-
-![Screenshot 2](/images/screenshot2.jpg)
-
-Caption for Screenshot 2
-
 ## Getting Started
 
 Detailed installation and usage instructions can be found in the [Documentation](/docs/).
@@ -40,5 +29,5 @@ Detailed installation and usage instructions can be found in the [Documentation]
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/whatsapp-home-automation.git
-
+[git clone https://github.com/yourusername/whatsapp-home-automation.git
+](https://github.com/Farhan-Malik/Home-automation-using-whatsa.git)https://github.com/Farhan-Malik/Home-automation-using-whatsa.git
